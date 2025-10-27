@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: sudawant/backend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: sudawant/backend:74f1ae6d2d858fe631b107e7d1c14552d06aa504
           ports:
             - containerPort: 5000
           env:
